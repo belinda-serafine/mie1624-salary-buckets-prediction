@@ -7,7 +7,7 @@ It answers two questions, applied to you specifically:
 1. Given your own survey answers, what's the full probability distribution over the 15 ordered salary buckets — not just a single guess?
 2. Of the tools/technologies you don't already use, which three would the model predict the largest salary-bucket gain from learning?
 
-Live dashboard: https://belinda-serafine.github.io/mie1624-dashboard-bonus/
+Live dashboard: [https://belinda-serafine.github.io/mie1624-salary-buckets-prediction/](https://belinda-serafine.github.io/mie1624-salary-buckets-prediction/)
 
 ## Key findings (about the model)
 
